@@ -1,0 +1,7 @@
+deck.c:13:6:RNG_init	1
+deck.c:33:6:deck_init	4
+deck.c:73:7:hand_init	1
+deck.c:80:6:addCard	1
+deck.c:87:9:calculateHandValue	5
+deck.c:115:10:getRNG	2
+deck.c:127:6:shuffleDeck	2

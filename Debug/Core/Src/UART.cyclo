@@ -1,0 +1,7 @@
+UART.c:10:6:UART_init	1
+UART.c:53:6:UART_print_char	2
+UART.c:61:6:UART_print	2
+UART.c:72:6:USART_ESC_Code	2
+UART.c:81:6:toString	5
+UART.c:117:6:read_input	2
+UART.c:128:6:USART2_IRQHandler	2

@@ -1,0 +1,7 @@
+../Core/Src/deck.c:13:6:RNG_init	4	static
+../Core/Src/deck.c:33:6:deck_init	72	static
+../Core/Src/deck.c:73:7:hand_init	16	static
+../Core/Src/deck.c:80:6:addCard	16	static
+../Core/Src/deck.c:87:9:calculateHandValue	24	static
+../Core/Src/deck.c:115:10:getRNG	16	static
+../Core/Src/deck.c:127:6:shuffleDeck	48	static
